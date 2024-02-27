@@ -22,22 +22,56 @@ Ich denke ich werde einfach das Modul mit alle codes wieder verarbeiten da dort 
 
 ## 27.2.2024
 
-- [ ] Folien aufmache und Codes und ihre funktion beschreiben und üben
-- [ ] Für 2 codes alle möglcihe Beispiele machen.
-- [ ] Mir diese Codes merken.
+- [X] Folien aufmache und Codes und ihre funktion beschreiben und üben
+- [X] Für 2 codes alle möglcihe Beispiele machen.
+- [X] Mir diese Codes merken.
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |                      |                |                |          |
+| Werte für Arrays| Zahlen               |                |                | Ja       |
 | ...             |                      |                |                |          |
 | 4               |                      |                |                |          |
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich arrays wieder durchgeschuat und geübt, dazu habe ich ein bespiel code in dem ich arrys benutze erstellt.
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
+☝️ 
+static void Main()
+{
+    // Erstelle ein Array
+    int[] meinArray = new int[5];
+
+    // Fülle das Array mit Werten
+    for (int i = 0; i < meinArray.Length; i++)
+    {
+        meinArray[i] = i + 1;
+    }
+
+    // Gib die Werte des Arrays aus
+    Console.WriteLine("Array Werte:");
+    foreach (int wert in meinArray)
+    {
+        Console.WriteLine(wert);
+    }
+}
+
 
 ## Reflexion
 
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+Ich habe okay gearbeite, nicht so fleissig wie die letzen male aber ich habe ein fortschritte gemacht. Der Update von Visual Studio hat sehr lange gedauert.
 
 Was ist Ihr nächster VBV?
+
+## 27.2.2024
+
+- [ ] Mit Switch case 
+- [ ] 
+- [ ] 
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+|                 |                      |                |                |          |
+| ...             |                      |                |                |          |
+| 4               |                      |                |                |          |
+
+✍️ ...
+☝️ 
