@@ -63,9 +63,9 @@ Was ist Ihr nächster VBV?
 
 ## 27.2.2024
 
-- [ ] Mit Switch case 
-- [ ] 
-- [ ] 
+- [ ] Mit Switch case ein kleines programm erstellen
+- [ ] Mit Funktionen ein kleinse prorgramm erstellen
+- [ ] Mit Funktionen ein kleinse prorgramm erstellen, und der vorherige verbesseren.ö
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
@@ -73,5 +73,32 @@ Was ist Ihr nächster VBV?
 | ...             |                      |                |                |          |
 | 4               |                      |                |                |          |
 
-✍️ ...
+✍️ Heute habe ich mit Switch cases und mit Funktionen gearbeitet, mit switch cases habe ich ein kleines Programm erstellt, und fpr Funktionen 2 kleine.
 ☝️ 
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("Geben Sie eine Zahl von 1 bis 3 ein:");
+        int input = Convert.ToInt32(Console.ReadLine());
+
+        switch (input)
+        {
+            case 1:
+                Console.WriteLine("Sie haben die Zahl 1 eingegeben.");
+                break;
+            case 2:
+                Console.WriteLine("Sie haben die Zahl 2 eingegeben.");
+                break;
+            case 3:
+                Console.WriteLine("Sie haben die Zahl 3 eingegeben.");
+                break;
+            default:
+                Console.WriteLine("Ungültige Eingabe. Bitte geben Sie eine Zahl zwischen 1 und 3 ein.");
+                break;
+        }
+    }
+}
+
