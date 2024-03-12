@@ -20,7 +20,7 @@ Ich denke ich werde einfach das Modul mit alle codes wieder verarbeiten da dort 
 
 ✍️ ...
 
-## 27.2.2024
+## 20.2.2024
 
 - [X] Folien aufmache und Codes und ihre funktion beschreiben und üben
 - [X] Für 2 codes alle möglcihe Beispiele machen.
@@ -63,9 +63,9 @@ Was ist Ihr nächster VBV?
 
 ## 27.2.2024
 
-- [ ] Mit Switch case ein kleines programm erstellen
-- [ ] Mit Funktionen ein kleinse prorgramm erstellen
-- [ ] Mit Funktionen ein kleinse prorgramm erstellen, und der vorherige verbesseren.ö
+- [X] Mit Switch case ein kleines programm erstellen
+- [X] Mit Funktionen ein kleinse prorgramm erstellen
+- [X] Mit Funktionen ein kleinse prorgramm erstellen, und der vorherige verbesseren.ö
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
@@ -101,4 +101,22 @@ class Program
         }
     }
 }
+
+12.3.2024
+
+- [X] Am Modul 187 arbeiten
+- [X] Alle Dokumentationen fertig stellen
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+| Werte für Arrays| Zahlen               |                |                | Ja       |
+| ...             |                      |                |                |          |
+| 4               |                      |                |                |          |
+
+✍️ Heute habe ich arrays wieder durchgeschuat und geübt, dazu habe ich ein bespiel code in dem ich arrys benutze erstellt.
+
+☝️ 
+
+## Reflexion
+
 
