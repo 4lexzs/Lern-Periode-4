@@ -102,7 +102,7 @@ class Program
     }
 }
 
-12.3.2024
+## 12.3.2024
 
 - [X] Am Modul 187 arbeiten
 - [X] Alle Dokumentationen fertig stellen
@@ -113,10 +113,17 @@ class Program
 | ...             |                      |                |                |          |
 | 4               |                      |                |                |          |
 
-✍️ Heute habe ich arrays wieder durchgeschuat und geübt, dazu habe ich ein bespiel code in dem ich arrys benutze erstellt.
+✍️ an dem Modul 187 gearbeitet und habe alle Dokumentationen fertig gestellet.
 
 ☝️ 
 
 ## Reflexion
 
+Ich denke ich habe heute sehr gut gearbeitet, meiner meinung nach denke ich das ich zuhause viel besser und konzentrieter arbeiten kann.
 
+
+## 19.03.2024
+
+- [ ] Am Modul 106 Arbeiten
+- [ ] Alle test fettig machen
+- [ ] alles abgeben
