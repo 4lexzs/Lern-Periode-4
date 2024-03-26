@@ -124,6 +124,20 @@ Ich denke ich habe heute sehr gut gearbeitet, meiner meinung nach denke ich das 
 
 ## 19.03.2024
 
-- [ ] Am Modul 106 Arbeiten
-- [ ] Alle test fettig machen
+- [X] Am Modul 106 Arbeiten
+- [X] Alle test fettig machen
+- [X] alles abgeben
+
+## Refelxion
+Ich denke ich habe heute sehr gut gearbeitet und habe sehtr viel am Modul arbeite können, bin sehr weit gekommen aber ich bin noch hinterdran also nächstes mal werde ich das gleiche machen. 
+
+## 26.03.2024
+
+- [X] Am Modul 106 arbeiten
+- [ ] Alle aufgaben die bis heute gemacht werden sollten fetigstellen
 - [ ] alles abgeben
+
+## Reflexion
+
+
+- 
